@@ -1,2 +1,1 @@
-# statcomp
-Course website for the undergraduate course.
+# Go to gh-pages branch and check.
