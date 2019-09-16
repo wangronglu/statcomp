@@ -1,2 +1,2 @@
 # statcomp
-Course website for the undergraduate course
+Course website for the undergraduate course.
