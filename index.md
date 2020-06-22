@@ -31,7 +31,7 @@ description: Course Website
 | 04/09 || Dirichlet process [Lec13](Lectures/generate_process_online3.pdf) ||   ||   ||
 | 04/11 || Gibbs sampler [Lec14](Lectures/gibbs_sampler.pdf) ||   ||   ||
 | 04/16 || Metropolis-Hastings algorithm [Lec15](Lectures/Metropolis-Hastings_online1.pdf) ||   ||   ||
-| 04/18 || Hamiltonian monte carlo [Lec16](Lectures/Metropolis-Hastings_online3.pdf), [Video1](video/MCMC.mp4) ||   ||   ||
+| 04/18 || Hamiltonian monte carlo [Lec16](Lectures/Metropolis-Hastings_online3.pdf) ||   ||   ||
 | 04/23 || sequential monte carlo, EM algorithm [Lec17](Lectures/EM_algorithm.pdf)|| Homework 4: refer to last page of Lec17  || 05/09  ||
 | 04/25 || gradient descent [Lec18](Lectures/gradient_descent.pdf)||   ||   ||
 | 04/28 || newton-raphson [Lec19](Lectures/newton_raphson.pdf)|| [Homework 5](Homeworks/homework_5.pdf) <br> [facerecognition.RData](Homeworks/facerecognition.RData)  || 05/09 ||
