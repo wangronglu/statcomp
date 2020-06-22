@@ -29,13 +29,13 @@ description: Course Website
 | 04/02 || generate random process [Lec11](Lectures/generate_process_online1.pdf) || Homework 3: refer to page 3 of Lec11  || 04/11 ||
 | 04/04 || Brownian bridge, geometric Brownian motion, Poisson point process [Lec12](Lectures/generate_process_online2.pdf) ||  ||   ||
 | 04/09 || Dirichlet process [Lec13](Lectures/generate_process_online3.pdf) ||   ||   ||
-| 04/11 || Gibbs sampler [Lec14 (update)](Lectures/gibbs_sampler.pdf) ||   ||   ||
+| 04/11 || Gibbs sampler [Lec14](Lectures/gibbs_sampler.pdf) ||   ||   ||
 | 04/16 || Metropolis-Hastings algorithm [Lec15](Lectures/Metropolis-Hastings_online1.pdf) ||   ||   ||
-| 04/18 || Hamiltonian monte carlo [Lec16 (update)](Lectures/Metropolis-Hastings_online3.pdf) [Video1](Video/MCMC.mp4) ||   ||   ||
+| 04/18 || Hamiltonian monte carlo [Lec16](Lectures/Metropolis-Hastings_online3.pdf), [Video1](video/MCMC.mp4) ||   ||   ||
 | 04/23 || sequential monte carlo, EM algorithm [Lec17](Lectures/EM_algorithm.pdf)|| Homework 4: refer to last page of Lec17  || 05/09  ||
 | 04/25 || gradient descent [Lec18](Lectures/gradient_descent.pdf)||   ||   ||
-| 04/28 || newton-raphson [Lec19 (update)](Lectures/newton_raphson.pdf)|| [Homework 5](Homeworks/homework_5.pdf) <br> [facerecognition.RData](Homeworks/facerecognition.RData)  || 05/09 ||
-| 04/30 || coordinate descent [Lec20 (update)](Lectures/coord_descent_online.pdf) ||  ||  ||
+| 04/28 || newton-raphson [Lec19](Lectures/newton_raphson.pdf)|| [Homework 5](Homeworks/homework_5.pdf) <br> [facerecognition.RData](Homeworks/facerecognition.RData)  || 05/09 ||
+| 04/30 || coordinate descent [Lec20](Lectures/coord_descent_online.pdf) ||  ||  ||
 | 05/07 || convex optimization [Lec21](Lectures/SVM_KKT_online1.pdf) ||  ||  ||
 | 05/09 || support vector machine [Lec22](Lectures/SVM_KKT_online2.pdf) ||  ||  ||
 | 05/14 || deep learning [Lec23](Lectures/deep-learning.pdf) ||  ||  ||
