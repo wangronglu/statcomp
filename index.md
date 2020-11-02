@@ -16,29 +16,29 @@ description: Course Website
 
 | Date | | Lecture | |  Homework  | | Due |
 |------|---|--------------------------------|---|----------|---|--------------|
-| 02/26 || generate uniform random variables  [Lec1](Lectures/random_generator_online.pdf) ||   ||   ||
-| 02/28 || generate non-uniform random variables [Lec2](Lectures/random_generator_online2.pdf)  || [Homework 1](Homeworks/homework1.pdf)  <br> [rmarkdown_template](Homeworks/rmarkdown_template.Rmd), [cdc.RData](Homeworks/cdc.RData) ||  03/14 ||
-| 03/05 || truncated distributions, Box-Muller, order statistics [Lec3](Lectures/random_generator_online3.pdf) ||   ||   ||
-| 03/07 || bootstrap, acceptance-rejection sampling [Lec4](Lectures/random_generator_online4.pdf) ||   ||   ||
-| 03/12 || sample from Gamma distributions and mixture distributions [Lec5](Lectures/random_generator_online5.pdf)  ||   ||   ||
-| 03/14 || generate random vectors [Lec6](Lectures/random_vector_online1.pdf)  ||   ||   ||
-| 03/19 || copula-marginal method [Lec7](Lectures/random_vector_online2.pdf) || Homework 2 - Q1: refer to page 15 of Lec7|| 04/04 ||
-| 03/21 || generate random points on unit sphere, random matrices [Lec8](Lectures/random_vector_online3.pdf)||  ||   ||
-| 03/26 || sample from Wishart and inverse Wishart distribution [Lec9](Lectures/random_vector_online4.pdf)||  ||   ||
-| 03/28 || generate random graphs [Lec10](Lectures/random_vector_online5.pdf) || Homework 2 - Q2: refer to page 42 of Lec10 || 04/04 ||
-| 04/02 || generate random process [Lec11](Lectures/generate_process_online1.pdf) || Homework 3: refer to page 3 of Lec11  || 04/11 ||
-| 04/04 || Brownian bridge, geometric Brownian motion, Poisson point process [Lec12](Lectures/generate_process_online2.pdf) ||  ||   ||
-| 04/09 || Dirichlet process [Lec13](Lectures/generate_process_online3.pdf) ||   ||   ||
-| 04/11 || Gibbs sampler [Lec14](Lectures/gibbs_sampler.pdf) ||   ||   ||
-| 04/16 || Metropolis-Hastings algorithm [Lec15](Lectures/Metropolis-Hastings_online1.pdf) ||   ||   ||
-| 04/18 || Hamiltonian monte carlo [Lec16](Lectures/Metropolis-Hastings_online3.pdf) ||   ||   ||
-| 04/23 || sequential monte carlo, EM algorithm [Lec17](Lectures/EM_algorithm.pdf)|| Homework 4: refer to last page of Lec17  || 05/09  ||
-| 04/25 || gradient descent [Lec18](Lectures/gradient_descent.pdf)||   ||   ||
-| 04/28 || newton-raphson [Lec19](Lectures/newton_raphson.pdf)|| [Homework 5](Homeworks/homework_5.pdf) <br> [facerecognition.RData](Homeworks/facerecognition.RData)  || 05/09 ||
-| 04/30 || coordinate descent [Lec20](Lectures/coord_descent_online.pdf) ||  ||  ||
-| 05/07 || convex optimization [Lec21](Lectures/SVM_KKT_online1.pdf) ||  ||  ||
-| 05/09 || support vector machine [Lec22](Lectures/SVM_KKT_online2.pdf) ||  ||  ||
-| 05/14 || deep learning [Lec23](Lectures/deep-learning.pdf) ||  ||  ||
+| 02/26 || generate uniform random variables  ||   ||   ||
+| 02/28 || generate non-uniform random variables  || [Homework 1](Homeworks/homework1.pdf)  <br> [rmarkdown_template](Homeworks/rmarkdown_template.Rmd), [cdc.RData](Homeworks/cdc.RData) ||  03/14 ||
+| 03/05 || truncated distributions, Box-Muller, order statistics ||   ||   ||
+| 03/07 || bootstrap, acceptance-rejection sampling ||   ||   ||
+| 03/12 || sample from Gamma distributions and mixture distributions  ||   ||   ||
+| 03/14 || generate random vectors  ||   ||   ||
+| 03/19 || copula-marginal method || Homework 2 - Q1|| 04/04 ||
+| 03/21 || generate random points on unit sphere, random matrices ||  ||   ||
+| 03/26 || sample from Wishart and inverse Wishart distribution ||  ||   ||
+| 03/28 || generate random graphs || Homework 2 - Q2 || 04/04 ||
+| 04/02 || generate random process  || Homework 3 || 04/11 ||
+| 04/04 || Brownian bridge, geometric Brownian motion, Poisson point process ||  ||   ||
+| 04/09 || Dirichlet process ||   ||   ||
+| 04/11 || Gibbs sampler ||   ||   ||
+| 04/16 || Metropolis-Hastings algorithm ||   ||   ||
+| 04/18 || Hamiltonian monte carlo ||   ||   ||
+| 04/23 || sequential monte carlo, EM algorithm || Homework 4  || 05/09  ||
+| 04/25 || gradient descent ||   ||   ||
+| 04/28 || newton-raphson || [Homework 5](Homeworks/homework_5.pdf) <br> [facerecognition.RData](Homeworks/facerecognition.RData)  || 05/09 ||
+| 04/30 || coordinate descent  ||  ||  ||
+| 05/07 || convex optimization  ||  ||  ||
+| 05/09 || support vector machine  ||  ||  ||
+| 05/14 || deep learning [ ||  ||  ||
 | 05/16 || summary || Some datasets for course paper: <br> [epigen.dat](Homeworks/epigen.dat) [description](Homeworks/epigen_description.pdf) <br> [springbok.xls](Homeworks/springbok.xls) [description](Homeworks/springbok_description.pdf) <br> [IrishElectricity.txt](Homeworks/IrishElectricity.txt) [description](Homeworks/IrishElectricity_description.pdf) || 06/16 ||
 
 ---
